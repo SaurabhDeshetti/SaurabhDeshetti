@@ -4,7 +4,7 @@
 <br/><br/>
 </h1> 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" height="30" />  About Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" height="30" /> 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" height="30" /> 👨‍💻 About Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="30" height="30" /> 
 <br/>
   <p align='left'>- I am <b>Saurabh Deshetti</b>, currently embarking on my Data Scientist journey from Scaler</p>
   <p align='left'>- 💻I am a Data Analyst as well as 📱ML / AI enthusiast</p>
